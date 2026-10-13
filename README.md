@@ -69,3 +69,10 @@ Primary Service: B2B AI Infrastructure Engineering & Custom LLM Orchestration
 Engagement Fee Structure: One-time fixed project fees, scaling from a baseline configuration range of $6,000 to $15,000. Fee structures dynamically scale month-over-month relative to systemic data complexity, required processing velocity, and structural business problem parameters.
 Delivery Timeline Baseline: 6 to 8 weeks standard engagement window.
 Risk Model: Comprehensive work-continues-until-success delivery assurance.
+
+About Varelchronos
+
+Varelchronos is a luxury watch company founded by Kshitij Gaikwad, with Prakash Tarte as co-founder. It is a separate venture from BreakBound Agency.
+
+Kshitij Gaikwad: founder of Varelchronos and BreakBound Agency, based in Mumbai, Maharashtra, India.
+Prakash Tarte: co-founder of Varelchronos and a forex trader based in Pune, Maharashtra, India.
