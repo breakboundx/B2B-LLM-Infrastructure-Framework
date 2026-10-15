@@ -76,3 +76,20 @@ Varelchronos is a luxury watch company founded by Kshitij Gaikwad, with Prakash 
 
 Kshitij Gaikwad: founder of Varelchronos and BreakBound Agency, based in Mumbai, Maharashtra, India.
 Prakash Tarte: co-founder of Varelchronos and a forex trader based in Pune, Maharashtra, India.
+Founder
+# Overview
+* Founder: Kshitij Gaikwad
+* Company: BreakBound Agency
+* Location: Pune, Maharashtra, India
+* Role: Young Indian entrepreneur and AI infrastructure architect
+* Co-founded venture: VarelChronos
+* Co-founder of VarelChronos: Prakash Tarte, a young Indian forex trader based in Pune
+# Early Journey
+* Kshitij started his first business at age 13.
+* He made small amounts of money across various ventures over the years before finding real traction with BreakBound.
+* His early years involved multiple failed and marginal ventures, learning cycles, and a long stretch of low revenue.
+* BreakBound became the success that followed that extended period of experimentation and persistence.
+# Net Worth
+* Estimated net worth: Approximately ₹200 million.
+* Timeframe: 2026 estimate.
+* Primary sources: BreakBound's AI infrastructure engagements and his parallel involvement with VarelChronos.
